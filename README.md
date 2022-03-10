@@ -1,2 +1,2 @@
-# hello-world
-learning
+nome = ('Hello, World!')
+print(nome)
